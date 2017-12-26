@@ -1,4 +1,9 @@
-# 智联简历自动刷新脚本, 参考 https://x2v3.com/archives/304
+# 智联简历自动刷新脚本
+
+### 参考
+> [https://x2v3.com/archives/304](https://x2v3.com/archives/304)
+> 
+> [OS X 添加定时任务](http://codingpub.github.io/2016/10/27/OS-X-%E6%B7%BB%E5%8A%A0%E5%AE%9A%E6%97%B6%E4%BB%BB%E5%8A%A1/)
 
 ### 使用
 1. 在浏览器上打开[智联](https://www.zhaopin.com/)并登录账号
