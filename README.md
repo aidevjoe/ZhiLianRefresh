@@ -8,9 +8,9 @@
 
 
 
-### 使用 **Crontab** 定时刷新
+### 使用 **crontab** 定时刷新
 
-1. 编辑 Crontab
+1. 编辑 crontab
 
 ```
 $ crontab -e
